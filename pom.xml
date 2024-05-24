@@ -15,9 +15,9 @@
 		<module>loginService</module>
 	</modules>
 	<groupId>com.sample.project</groupId>
-	<artifactId>parent</artifactId>
+	<artifactId>ProjectParent</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>parent</name>
+	<name>ProjectParent</name>
 	<description>Spring Project</description>
 	<properties>
 		<java.version>17</java.version>
